@@ -1,0 +1,1 @@
+var RATINGS = [{"Rating":"Not Rated","rank":6},{"Rating":"G","rank":5},{"Rating":"PG","rank":4},{"Rating":"PG-13","rank":3},{"Rating":"R","rank":2},{"Rating":"NC-17","rank":1}];
